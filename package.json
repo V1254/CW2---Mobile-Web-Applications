@@ -1,0 +1,30 @@
+{
+  "name": "mycovtesthub",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Mohamed Sharif-Farah",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "@nivo/bar": "^0.66.0",
+    "@nivo/core": "^0.66.0",
+    "@nivo/pie": "^0.66.0",
+    "bcrypt": "^5.0.0",
+    "cookie": "^0.4.1",
+    "cookies": "^0.8.0",
+    "firebase-admin": "^9.3.0",
+    "isomorphic-unfetch": "^3.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "next": "10.0.1",
+    "next-absolute-url": "^1.2.2",
+    "nprogress": "^0.2.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "short-uuid": "^4.1.0"
+  }
+}
