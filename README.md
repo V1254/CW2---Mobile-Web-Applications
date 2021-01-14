@@ -1,6 +1,6 @@
-Mobile & Web Applications - Courswork 2.
+Mobile & Web Applications - Courswork 2 built utilising NextJS
 
-Marks: 90/100
+**Marks: 90/100**
 
 This project is hosted on vercel if you want to avoid installation/setup garbage -> https://mycovtesthub.vercel.app
 
