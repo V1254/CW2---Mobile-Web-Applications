@@ -5,11 +5,8 @@ Mobile & Web Applications - Courswork 2 built utilising NextJS
  - Log-in/sign-out function - 17/20
  - Demographics statistics for Admin Dashboard - 31/35
  - Error handling: 9/10
+ - Total Marks - **90/100**
  
-Total: 90/100
-
-**Marks: 90/100**
-
 This project is hosted on vercel if you want to avoid installation/setup garbage -> https://mycovtesthub.vercel.app
 
 ## Installation
